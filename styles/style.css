@@ -1,0 +1,11 @@
+body {
+    background-color: aqua;
+    margin: 0;
+}
+
+.cabecera {
+    display: flex;
+    background-color: chocolate;
+    justify-content: center;
+    align-items: center;
+} 
